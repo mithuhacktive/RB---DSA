@@ -19,4 +19,16 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mithuhacktive/RB---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mithuhacktive/RB---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mithuhacktive/RB---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
