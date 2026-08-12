@@ -55,8 +55,25 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | ------- |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mithuhacktive/RB---DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithuhacktive/RB---DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithuhacktive/RB---DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
