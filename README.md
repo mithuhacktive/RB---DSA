@@ -8,6 +8,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | ------- |
 | [0015-3sum](https://github.com/mithuhacktive/RB---DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mithuhacktive/RB---DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -16,6 +17,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | ------- |
 | [0015-3sum](https://github.com/mithuhacktive/RB---DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mithuhacktive/RB---DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -39,4 +41,13 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mithuhacktive/RB---DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
