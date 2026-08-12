@@ -50,4 +50,8 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mithuhacktive/RB---DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
