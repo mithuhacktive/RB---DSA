@@ -10,6 +10,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0027-remove-element](https://github.com/mithuhacktive/RB---DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithuhacktive/RB---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Sorting
 |  |
 | ------- |
