@@ -6,6 +6,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mithuhacktive/RB---DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mithuhacktive/RB---DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mithuhacktive/RB---DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
@@ -15,6 +16,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mithuhacktive/RB---DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mithuhacktive/RB---DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mithuhacktive/RB---DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
@@ -89,4 +91,8 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/mithuhacktive/RB---DSA/tree/master/2083-three-divisors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mithuhacktive/RB---DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
