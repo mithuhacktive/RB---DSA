@@ -60,6 +60,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [2083-three-divisors](https://github.com/mithuhacktive/RB---DSA/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/mithuhacktive/RB---DSA/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/mithuhacktive/RB---DSA/tree/master/2556-convert-the-temperature) |
 | [2748-calculate-delayed-arrival-time](https://github.com/mithuhacktive/RB---DSA/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/mithuhacktive/RB---DSA/tree/master/2752-sum-multiples) |
 ## Bit Manipulation
