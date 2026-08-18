@@ -58,6 +58,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mithuhacktive/RB---DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mithuhacktive/RB---DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/mithuhacktive/RB---DSA/tree/master/2083-three-divisors) |
+| [2383-add-two-integers](https://github.com/mithuhacktive/RB---DSA/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/mithuhacktive/RB---DSA/tree/master/2507-number-of-common-factors) |
 | [2748-calculate-delayed-arrival-time](https://github.com/mithuhacktive/RB---DSA/tree/master/2748-calculate-delayed-arrival-time) |
 | [2752-sum-multiples](https://github.com/mithuhacktive/RB---DSA/tree/master/2752-sum-multiples) |
