@@ -12,6 +12,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/mithuhacktive/RB---DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
