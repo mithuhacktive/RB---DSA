@@ -14,6 +14,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mithuhacktive/RB---DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1580-shuffle-the-array](https://github.com/mithuhacktive/RB---DSA/tree/master/1580-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
