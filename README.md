@@ -15,6 +15,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0485-max-consecutive-ones](https://github.com/mithuhacktive/RB---DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1580-shuffle-the-array](https://github.com/mithuhacktive/RB---DSA/tree/master/1580-shuffle-the-array) |
+| [1791-richest-customer-wealth](https://github.com/mithuhacktive/RB---DSA/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +103,8 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | ------- |
 | [0011-container-with-most-water](https://github.com/mithuhacktive/RB---DSA/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/mithuhacktive/RB---DSA/tree/master/2032-largest-odd-number-in-string) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/mithuhacktive/RB---DSA/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
