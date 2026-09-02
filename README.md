@@ -14,6 +14,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mithuhacktive/RB---DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/mithuhacktive/RB---DSA/tree/master/0724-find-pivot-index) |
 | [1580-shuffle-the-array](https://github.com/mithuhacktive/RB---DSA/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/mithuhacktive/RB---DSA/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mithuhacktive/RB---DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -116,4 +117,8 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mithuhacktive/RB---DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mithuhacktive/RB---DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
