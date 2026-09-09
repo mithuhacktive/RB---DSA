@@ -28,6 +28,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0075-sort-colors](https://github.com/mithuhacktive/RB---DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mithuhacktive/RB---DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/mithuhacktive/RB---DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithuhacktive/RB---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/mithuhacktive/RB---DSA/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/mithuhacktive/RB---DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mithuhacktive/RB---DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
