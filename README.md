@@ -15,6 +15,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | [0485-max-consecutive-ones](https://github.com/mithuhacktive/RB---DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mithuhacktive/RB---DSA/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/mithuhacktive/RB---DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1580-shuffle-the-array](https://github.com/mithuhacktive/RB---DSA/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/mithuhacktive/RB---DSA/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mithuhacktive/RB---DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -33,6 +34,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mithuhacktive/RB---DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/mithuhacktive/RB---DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mithuhacktive/RB---DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/mithuhacktive/RB---DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/mithuhacktive/RB---DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mithuhacktive/RB---DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -123,4 +126,5 @@ Practicing dsa from the rising brain dsa cheatsheet|pattern based problem solvin
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mithuhacktive/RB---DSA/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/mithuhacktive/RB---DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
